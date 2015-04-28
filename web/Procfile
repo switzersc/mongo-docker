@@ -1,0 +1,1 @@
+web: bundle exec unicorn -p $PORT -c /usr/src/data-journal/config/unicorn.rb
